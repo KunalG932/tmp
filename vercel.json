@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "framework": "remix",
+  "devCommand": "npm run dev"
+}

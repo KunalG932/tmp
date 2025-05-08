@@ -395,6 +395,7 @@ export default function Index() {
           </div>
         </div>
         <div className="text-sm text-gray-500 dark:text-gray-400 text-center">
+          <p>Fork -&gt;{" "}<a href="https://github.com/kunalg932/tmp" className="hover:underline"> Kunal Gaikwad</a></p>
           <p>Powered by <a href="https://envs.sh" className="hover:underline">envs.sh</a></p>
           <div className="mt-1">
             Source -&gt;{" "}

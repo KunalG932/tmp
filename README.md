@@ -33,6 +33,21 @@ npm run dev
 
 ## Deployment
 
+### Vercel
+
+This project is configured for easy deployment on Vercel:
+
+1. Fork or clone this repository
+2. Import the project on [Vercel](https://vercel.com/new)
+3. Vercel will automatically detect the Remix framework and configure the build settings
+4. Click "Deploy"
+
+You can also use the Deploy button:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FKunalG932%2Ftmp)
+
+### Manual Deployment
+
 First, build your app for production:
 
 ```sh
